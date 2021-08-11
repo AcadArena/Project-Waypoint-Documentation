@@ -1,0 +1,44 @@
+/**
+    - main title
+    */
+.cover-main h1 a span {
+  color: #0e143c;
+  font-weight: bold;
+}
+
+/**
+     - main title's version number
+     */
+.cover-main button {
+  color: rgb(179, 80, 80);
+}
+
+/**
+    - description
+     */
+/* .cover-main blockquote {
+  color: #6b0584;
+} */
+
+/**
+    - buttons
+     */
+section.cover .cover-main > p:last-child a {
+  color: #fff !important;
+  background: #0e143c !important;
+}
+
+section.cover .cover-main > p:last-child a:hover {
+  color: green !important;
+}
+
+/**
+    - last button
+     */
+section.cover .cover-main > p:last-child a:last-child {
+  color: white !important;
+}
+
+section.cover .cover-main > p:last-child a:last-child:hover {
+  color: #c3f8ac !important;
+}
