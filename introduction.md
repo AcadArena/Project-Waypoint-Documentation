@@ -35,8 +35,4 @@ The Project Waypoint Web Application is visually represented by the hierarchy be
 
 The home page features the latest updates about this system this page also includes the the shortcut for the different pages such as (Tournaments, Communities, Boostcamp etc).
 
-## ![Frontpage](_media/Frontpage_Carousel.png)
-
-## ![Frontpage](_media/Frontpage_Compete.png)
-
-## ![Frontpage](_media/Frontpage_Boostcamp.png)
+## ![Frontpage](_media/front-page.png)

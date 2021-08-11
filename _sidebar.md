@@ -11,6 +11,14 @@
     - [Sign Up](user-accounts?id=sign-up)
     - [User Profile](user-accounts?id=user-profile)
     - [User Verification](user-accounts?id=user-verification)
+    - [Create Team](user-accounts?id=create-team)
+    - [Select Member](user-accounts?id=select-member)
+    - [Team Page](user-accounts?id=team-page)
+
+- Team Page
+
+  - [Team Page](team-page)
+    - [Invite Player](team-page?id=invite-player)
 
 - Compete
 

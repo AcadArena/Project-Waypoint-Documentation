@@ -26,3 +26,19 @@ Players/Team Captain can add their school club if they dont have one they can al
 Upon signing, users who are not verified needs to verify their account, so they can fully use the Project Waypoint Functionality
 
 ![profile](_media/student-verify.png)
+
+### Create Team
+
+Players/Team Captain are given the opportunity to create their own custom team members that they will be having in different type of tournaments. They can add pictures and Team name in particular field that is shown below.
+
+The link to this kind of section is "Team > Create Team"
+
+![profile](_media/create-team.png)
+
+### Select Member
+
+Players/Team Captains also can select and view profile pages of their team members
+
+The Link to this section is `Team > Select Team Card`
+
+![profile](_media/team-members.png)
