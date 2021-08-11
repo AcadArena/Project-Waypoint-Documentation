@@ -10,6 +10,7 @@
   - [Account Settings](user-accounts?id=account-settings)
     - [Sign Up](user-accounts?id=sign-up)
     - [User Profile](user-accounts?id=user-profile)
+    - [User Verification](user-accounts?id=user-verification)
 
 - Compete
 

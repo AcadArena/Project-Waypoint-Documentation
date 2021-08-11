@@ -21,7 +21,7 @@ Players/Team Captain can add their school club if they dont have one they can al
 
 ![profile](_media/profile.png)
 
-### Student Verification
+### User Verification
 
 Upon signing, users who are not verified needs to verify their account, so they can fully use the Project Waypoint Functionality
 
