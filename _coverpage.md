@@ -1,6 +1,8 @@
 <!-- _coverpage.md -->
 
-<img src="/_media/logo.png" alt="drawing" width="280"/>
+<!-- <img src="/_media/logo.png" alt="drawing" width="280"/> -->
+
+![logo](_media/logo.png ":size=200")
 
 # Project Waypoint
 
