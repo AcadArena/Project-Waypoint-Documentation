@@ -6,39 +6,39 @@ Players/Team Leader are given special accounts where they can setup their own te
 
 The Login in link for the Project Waypoint is available at `Navigation Bar > Login`
 
-![signin](_media/login.png)
+![login](_media/login.png)
 
-### Sign up
+## Sign up
 
 Player/Team Captain that is not yet registered, they can sign up a new account in sign up tab in navigation bar
 The Sign up in link for the Project Waypoint is available at `Navigation Bar > Sign up`
 
-![signin](_media/signup.png)
+![signup](_media/signup.png)
 
-### User Profile
+## User Profile
 
 Players/Team Captain can add their school club if they dont have one they can also modify their school, year level, course and email
 
 ![profile](_media/profile.png)
 
-### User Verification
+## User Verification
 
 Upon signing, users who are not verified needs to verify their account, so they can fully use the Project Waypoint Functionality
 
-![profile](_media/student-verify.png)
+![verify](_media/student-verify.png)
 
-### Create Team
+## Create Team
 
 Players/Team Captain are given the opportunity to create their own custom team members that they will be having in different type of tournaments. They can add pictures and Team name in particular field that is shown below.
 
 The link to this kind of section is "Team > Create Team"
 
-![profile](_media/create-team.png)
+![creatTeam](_media/create-team.png)
 
-### Select Member
+## Select Member
 
 Players/Team Captains also can select and view profile pages of their team members
 
 The Link to this section is `Team > Select Team Card`
 
-![profile](_media/team-members.png)
+![tm](_media/team-members.png)

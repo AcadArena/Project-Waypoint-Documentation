@@ -13,7 +13,6 @@
     - [User Verification](user-accounts?id=user-verification)
     - [Create Team](user-accounts?id=create-team)
     - [Select Member](user-accounts?id=select-member)
-    - [Team Page](user-accounts?id=team-page)
 
 - Team Page
 
@@ -22,23 +21,15 @@
 
 - Compete
 
-  - [Front-page](compete-page)
+  - [Compete page](compete-page)
   - [School Tournament](compete-page?id=school-tournament)
     - [Compete Profile](compete-page?id=compete-profile)
     - [Join Tournament](compete-page?id=join-tournament)
-    <!-- - [User Profile](user-accounts?id=user-profile) -->
+    - [Rules](compete-page?id=user-rules)
+    - [Schedule](compete-page?id=compete-schedule)
 
-<!-- - Data Encoding
+- Community
 
-  - [Encoding](encoding?id=data-encoding)
-  - [Indicator Categories](encoding?id=indicator-categories)
-  - [Data Entry](encoding?id=data-entry)
-    - [Adding and Modifying Items](encoding?id=adding-and-modifying-items)
-    - [Adding Source](encoding?id=adding-a-source)
-  - [Data Export](encoding?id=data-export)
-
-- Indicator Guides
-
-  - [RPFP](rpfp)
-  - [AHD](ahd)
-  - [POPDEV](popdev) -->
+  - [Community Page](community-page)
+    - [Organization](community-page?id=community-organization)
+  - [Community Profile](community-page?id=community-profile)
