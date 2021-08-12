@@ -18,9 +18,6 @@ The Project Waypoint Web Application is visually represented by the hierarchy be
     └── Compete
         ├── AcadArena Tournaments
         └── School Tournaments
-    └── Boostcamp
-         └── Boostcamp Season
-                └── Boostcamp episodes
     └── Communities
          └── Team Org
                 └── Org Profile
@@ -29,37 +26,13 @@ The Project Waypoint Web Application is visually represented by the hierarchy be
 
 <!--
 ```text
-.
-└── App
-    ├── Home
-    └── Dashboard
-        └── RPFP
-            └── RPFP Editor
-                ├── Impact Indicators
-                ├── Output Indicators
-                ├── Input Indicators
-                └── Outcome Indicators
-        └── AHD
-            └── AHD Editor
-                ├── Impact Indicators
-                ├── Output Indicators
-                ├── Input Indicators
-                └── Outcome Indicators
-        └── POPDEV
-            └── POPDEV Editor
-                ├── Impact Indicators
-                ├── Output Indicators
-                ├── Input Indicators
-                └── Outcome Indicators
-        └── Settings
+    └── Boostcamp
+         └── Boostcamp Season
+                └── Boostcamp episodes
 ``` -->
 
 ### Home Page
 
 The home page features the latest updates about this system this page also includes the the shortcut for the different pages such as (Tournaments, Communities, Boostcamp etc).
 
-## ![Frontpage](_media/Frontpage_Carousel.png)
-
-## ![Frontpage](_media/Frontpage_Compete.png)
-
-## ![Frontpage](_media/Frontpage_Boostcamp.png)
+## ![Frontpage](_media/front-page.png)
